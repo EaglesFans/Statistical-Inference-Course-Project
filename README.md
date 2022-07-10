@@ -38,8 +38,9 @@ Illustrate via simulation and associated explanatory text the properties of the 
 In point 3, focus on the difference between the distribution of a large collection of random exponentials and the distribution of a large collection of averages of 40 exponentials.
 
 As a motivating example, compare the distribution of 1000 random uniforms
-
+```{r}
 hist(runif(1000))
+```
 
 and the distribution of 1000 averages of 40 random uniforms
 
