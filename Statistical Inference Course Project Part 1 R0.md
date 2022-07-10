@@ -119,7 +119,7 @@ g1 <- ggplot(df_sample_mean, aes(sample_mean)) +
 g1
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+![plot of chunk unnamed-chunk-4](<figure/unnamed-chunk-4-1.png>)
 
 #### ANS) We can see that the histrogram of the 1000 sample means of 40 exponentials follows the normal distribution (orange color bell curve). Its sample mean is 4.990025 and SD is 0.7817394 as described in Q1 and Q2. The sample mean is the vertical orange line.
 
