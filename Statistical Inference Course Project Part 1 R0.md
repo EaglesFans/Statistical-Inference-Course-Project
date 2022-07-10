@@ -37,7 +37,7 @@ library(knitr)
 set.seed(1)
 ```
 
-### Make a simuation of sample mean with the given Parameters per instruction
+### Make a simuation of sample means with the given Parameters per instruction
 
 ```r
 lambda <- 0.2
@@ -109,7 +109,7 @@ comparison
 df_sample_mean <- data.frame(sample_mean) # converting to a data frame
 ```
 
-### Draw a plot of the distribution of a large collection (1000 simulation) of averages of 40 exponentials
+### Draw a plot of the distribution of a large collection (1000 simulations) of averages of 40 exponentials
 
 ```r
 g1 <- ggplot(df_sample_mean, aes(sample_mean)) + 
