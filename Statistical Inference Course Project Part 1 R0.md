@@ -78,7 +78,7 @@ theoretical_mean
 ## [1] 5
 ```
 
-#### ANS) Sample mean mean is very close to the theoretical mean of the distribution. 
+#### ANS) The sample mean is very close to the theoretical mean of the distribution. 
 
 ## Q2. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution.
 
