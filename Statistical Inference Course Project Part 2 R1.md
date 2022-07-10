@@ -88,7 +88,7 @@ ggplot(ToothGrowth, aes(x= dose, y = len, col = supp)) +
 ## `geom_smooth()` using formula 'y ~ x'
 ```
 
-![plot of chunk draw a geom point chart to find a trend](figure/draw a geom point chart to find a trend-1.png)
+![plot of chunk draw a geom point chart to find a trend](<figure/draw a geom point chart to find a trend-1.png>)
 
 #### Q2. Provide a basic summary of the data.
 ##### ANS) From the basic exploratory data analyses, we can find out followings:
