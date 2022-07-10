@@ -1,6 +1,6 @@
 # Statistical-Inference-Course-Project
 
-Instructions
+## Instructions
 
 The project consists of two parts:
 
