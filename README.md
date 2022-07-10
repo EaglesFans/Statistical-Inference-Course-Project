@@ -2,9 +2,8 @@
 
 ## Instructions
 
-The project consists of two parts:
-
-A simulation exercise.
+1. The project consists of two parts:
+2. A simulation exercise.
 
 Basic inferential data analysis.
 
