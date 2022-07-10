@@ -132,7 +132,7 @@ g1 <- g1 + geom_vline(xintercept = theoretical_mean, size = 1, col = "red", line
 g1
 ```
 
-![plot of chunk show both theoretical distribution and the sample one in one chart ](figure/show both theoretical distribution and the sample one in one chart -1.png)
+![plot of chunk show both theoretical distribution and the sample one in one chart ](<figure/show both theoretical distribution and the sample one in one chart -1.png>)
 
 #### ANS) The theoretical mean is 5. It is the two-dashaed vertical line in red color. The two-dashed bell curve in red is the theorectical distribution. We can verity that the sample distribution (the solid line orange bell curve) is nearly a normal distribution. Its mean and SD are very close to the ones of the theoretical distribution.
 
