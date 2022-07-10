@@ -75,7 +75,7 @@ ggplot(ToothGrowth, aes(x= as.factor(dose), y = len, fill = supp)) +
   geom_bar(stat = "identity") + facet_grid(supp~.) + labs(x = "Dose (mg/day)", y = "tooth length", title = "The Effect of Vitamin C on Tooth Growth in Guinea Pigs")
 ```
 
-![plot of chunk draw a bar chart](figure/draw a bar chart-1.png)
+![plot of chunk draw a bar chart](<figure/draw a bar chart-1.png>)
 
 ##### Draw a scatterplot to display the relationship per doses and per delivery methods .
 
