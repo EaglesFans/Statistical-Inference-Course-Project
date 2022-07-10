@@ -100,7 +100,7 @@ comparison
 ## Sample               0.7817394 0.6111165
 ## Theoretical          0.7905694 0.6250000
 ```
-#### ANS) We can confirm from the above table that the difference between sample standard deviation and theoretical one is minimal, and the value of the sample variation and theoretical variation is close. 
+#### ANS) We can confirm from the above table that the difference between sample standard deviation and theoretical one is minimal, and the values of the sample variance and theoretical variance are close. 
 
 ## Q3. Show that the distribution is approximately normal.
 ### Convert sample_mean into a data frame.
@@ -123,7 +123,7 @@ g1
 
 #### ANS) We can see that the histrogram of the 1000 sample means of 40 exponentials follows the normal distribution (orange color bell curve). Its sample mean is 4.990025 and SD is 0.7817394 as described in Q1 and Q2. The sample mean is the vertical orange line.
 
-### Add a plot of theorecticalthe distribution to the distribution of the sample means.
+### Add a plot of theorectical distribution to the distribution of the sample means.
 
 ```r
 g1 <- g1 + geom_vline(xintercept = theoretical_mean, size = 1, col = "red", linetype = "twodash") +
